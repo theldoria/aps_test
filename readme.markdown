@@ -39,3 +39,7 @@ And visit the new application.
 ```
     curl localhost/aps_test
 ```
+
+## Tipps
+
+To reload changes in the application the file `tmp/restart.txt` should be touched.
